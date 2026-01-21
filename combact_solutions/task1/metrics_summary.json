@@ -1,0 +1,10 @@
+{
+  "run_id": "2026-01-20T07:27:23.205224+00:00",
+  "mode": "mock",
+  "total_requests": 4,
+  "total_time_seconds": 2.188,
+  "average_latency_seconds": 0.5449,
+  "min_latency_seconds": 0.3107,
+  "max_latency_seconds": 0.9912,
+  "throughput_rps": 1.83
+}
