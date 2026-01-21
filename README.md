@@ -9,3 +9,6 @@ covering MLOps fundamentals, LangGraph workflows, and Docker basics.
   - A README explaining the approach
   - Source code
   - Output / results
+
+
+Please refer to individual task folders for detailed explanations and execution steps.
